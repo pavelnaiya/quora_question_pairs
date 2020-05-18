@@ -5,5 +5,5 @@ For more deails: https://www.kaggle.com/c/quora-question-pairs
 
 File Details:
 1. quora_question_pairs.ipynb: This is a jupyter notebook with detailed code.
-2. quora_question_pairs.py: Thisis a Python file with same code.
+2. quora_question_pairs.py: This a Python file with same code.
 3. model.sav: Model saved after training.
